@@ -25,5 +25,5 @@ function setup() {
 
 function mouseReleased() {
   // if you click the mouse, you'll see the location in the debugging console
-  print(mouseX + " , " + mouseY) ;
+  print(mouseX + " 50 " + mouseY) ;
 }
